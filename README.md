@@ -17,5 +17,7 @@ link to enable Google Sheets API and get the credentials JSON file.
 4. Run the program and authenticate with your Google account (the program will
    create another authentication JSON file
 
+The service is available at ``http://localhost:8080``.
+
 Check out the example sheet that was exported to ``example.xlsx``. You can
 import that into your Google Sheets.
